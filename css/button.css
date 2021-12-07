@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+    font-family: Montserrat-SemiBold;
+    src: url(../fonts/Montserrat-SemiBold.otf);
+  }
+
+.button {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21pt;
+    padding-top: 0%;
+    padding-bottom: 2%;
+    font-family: Montserrat-SemiBold ;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+
+  .button1 {
+    background-color:#f4eec4; 
+    width: 161px;
+    height: 35px;
+    color: black; 
+    border: 2px solid black;
+    margin: 5px 0px 0px 0px; 
+   
+  }
+  
+  .button1:hover {
+    background-color: black;
+    color: #f4eec4;
+  }
+  
+  .button2 {
+    background-color:#f4eec4; 
+    width: 173px;
+    height: 35px;
+    color: black; 
+    border: 2px solid black;
+    margin: 0px 0px 0px 660px;
+ 
+  }
+  
+  .button2:hover {
+    background-color: black;
+    color: #f4eec4;
+  }
+
+  .button3 {
+    background-color:#f4eec4; 
+    width: 275px;
+    height: 35px;
+    color: black; 
+    border: 2px solid black;
+    margin: 21px 0px 0px 18px; 
+
+    
+ 
+  }
+  /*
+  .button3:hover {
+    background-color: black;
+    color: #f4eec4;
+  }
+
+  .button4 {
+    background-color:#f4eec4; 
+    width: 160px;
+    height: 35px;
+    color: black; 
+    border: 2px solid black;
+    margin: 21px 89px 0px 472px;
+ 
+  }
+  
+  .button4:hover {
+    background-color: black;
+    color: #f4eec4;
+  }
+  */
